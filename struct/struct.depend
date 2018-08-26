@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429480476 source:c:\users\acer\documents\ufla\3º\aed\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
